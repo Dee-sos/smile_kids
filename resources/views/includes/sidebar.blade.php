@@ -30,7 +30,7 @@
                 
                   <li><a href="{{ url('/users') }}"><i class="fa fa-users"></i> Users</a></li>
 
-                   <li><a><i class="fa fa-user"></i> Contributors <span class="fa fa-chevron-down"></span></a>
+                   <li><a><i class="fa fa-user"></i> Contributor <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="{{ url('/logout') }}"><i class="glyphicon glyphicon-apple"></i> Nutritionists</a></li>
                       <li><a href="{{ url('/logout') }}"><i class="fa fa-plus-square"></i>Doctors</a></li>
